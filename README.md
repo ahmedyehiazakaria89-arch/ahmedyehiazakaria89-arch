@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ahmedyehiazakaria89-arch" alt="Ahmed Yehia Zakaria" width="160" style="border-radius: 50%"/>
+  <img src="assets/AhmedYehia.jfif" alt="Ahmed Yehia Zakaria" width="160" style="border-radius: 50%"/>
 </p>
 
 # 👋 Hi, I'm Ahmed Yehia Zakaria
